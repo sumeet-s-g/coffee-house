@@ -12,6 +12,7 @@
 	<groupId>com.springboot</groupId>
 	<artifactId>springbootscb1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>springbootscb1</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
